@@ -31,6 +31,16 @@ def h(a):
     """
     return a**4
 
+def g(a):
+    """fonction 5
+
+    Args:
+        a (int): a exposant5
+
+    Returns:
+        (int): a exposant 5
+    """
+
 print(f(5), g(5), h(5))
 
 
