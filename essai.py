@@ -31,7 +31,7 @@ def h(a):
     """
     return a**4
 
-def g(a):
+def i(a):
     """fonction 5
 
     Args:
@@ -40,8 +40,9 @@ def g(a):
     Returns:
         (int): a exposant 5
     """
+    return a**5
 
-print(f(5), g(5), h(5))
+print(f(5), g(5), h(5), i(5))
 
 
 
