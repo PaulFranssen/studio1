@@ -42,7 +42,7 @@ def i(a):
     """
     return a**5
 
-print(f(5), g(5), h(5), i(5), 8)
+print(f(5), g(5), h(5), i(5), 8, 9)
 
 
 
